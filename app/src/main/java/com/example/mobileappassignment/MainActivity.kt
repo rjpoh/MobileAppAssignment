@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.example.mobileappassignment.databinding.ActivityMainBinding
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import fragment.EventFragment
 import fragment.HistoryFragment
 import fragment.ProfileFragment
@@ -26,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         replaceFragment(this.eventFragment)
 
-        findViewById<com.google.android.material.bottomnavigation.BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener{
+        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener{
             when(it.itemId){
                 R.id.icon_event -> replaceFragment(eventFragment)
                 R.id.icon_timeline -> replaceFragment(timelineFragment)
