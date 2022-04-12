@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mobileappassignment" >
+    package="com.example.mobileappassignment">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MobileAppAssignment" >
+        android:theme="@style/Theme.MobileAppAssignment">
+        <activity
+            android:name=".viewEvent"
+            android:exported="false" />
+        <activity
+            android:name=".viewFund"
+            android:exported="false" />
+        <activity
+            android:name=".create_fund"
+            android:exported="false" />
+        <activity
+            android:name=".createEvent"
+            android:exported="false" />
+        <activity
+            android:name=".fragment_viewEvent"
+            android:exported="false" />
         <activity
             android:name=".Login"
             android:exported="false" />
@@ -24,7 +39,7 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
