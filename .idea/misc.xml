@@ -3,9 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/activity_profiles.xml" value="0.20416666666666666" />
-        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.15060240963855423" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout-w936dp/activity_login.xml" value="0.17578125" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_landing_page.xml" value="0.176" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_main.xml" value="0.11979166666666667" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_main2.xml" value="0.2203125" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_event.xml" value="0.11979166666666667" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_history.xml" value="0.2" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_signup.xml" value="0.234375" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_testing_commit.xml" value="0.11979166666666667" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_timeline.xml" value="0.11979166666666667" />
+        <entry key="..\:/MobileAppAssignment/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2285809906291834" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout-w936dp/activity_login.xml" value="0.21584699453551912" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_create_event.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_create_fund.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_fragment_view_event.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_landing_page.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_login.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_view_event.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/activity_view_fund.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/enkhi/AndroidStudioProjects/Mobile Ass/app/src/main/res/layout/fragment_event.xml" value="0.286231884057971" />
       </map>
     </option>
   </component>

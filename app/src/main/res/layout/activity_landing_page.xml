@@ -8,29 +8,38 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="888dp"
-        android:layout_height="746dp"
-        app:srcCompat="@drawable/neighborhud"
-        tools:layout_editor_absoluteX="-239dp"
-        tools:layout_editor_absoluteY="-52dp" />
+        android:layout_width="356dp"
+        android:layout_height="397dp"
+        android:layout_marginTop="92dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/neighborhud" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="160dp"
         android:layout_height="60dp"
+        android:layout_marginTop="24dp"
         android:fontFamily="@font/bree_serif"
         android:text="Login"
         app:cornerRadius="86dp"
-        tools:layout_editor_absoluteX="124dp"
-        tools:layout_editor_absoluteY="549dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="160dp"
         android:layout_height="60dp"
+        android:layout_marginTop="24dp"
         android:fontFamily="@font/bree_serif"
         android:text="Sign Up"
         app:cornerRadius="86dp"
-        tools:layout_editor_absoluteX="124dp"
-        tools:layout_editor_absoluteY="658dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
 </androidx.constraintlayout.widget.ConstraintLayout>

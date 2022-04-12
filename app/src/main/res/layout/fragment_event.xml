@@ -1,21 +1,57 @@
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="fragment.EventFragment">
+    android:orientation="vertical"
+    tools:context=".MainActivity">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:id="@+id/event"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Event"
-        android:textSize="36sp"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="92dp"
+        android:layout_height="46dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="669dp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="70dp"
+        android:layout_height="38dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="70dp"
+        android:layout_height="38dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="70dp"
+        android:layout_height="38dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="325dp"
+        tools:layout_editor_absoluteY="677dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="70dp"
+        android:layout_height="38dp"
+        android:text="Button"
+        app:cornerRadius="50dp"
+        tools:layout_editor_absoluteX="325dp"
+        tools:layout_editor_absoluteY="602dp" />
+
+    <SearchView
+        android:layout_width="413dp"
+        android:layout_height="44dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+</LinearLayout>
