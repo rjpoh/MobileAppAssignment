@@ -3,18 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.15060240963855423" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout-w936dp/activity_login.xml" value="0.17578125" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_landing_page.xml" value="0.176" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_login.xml" value="0.234375" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_main.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/activity_main2.xml" value="0.2203125" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_event.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_history.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_profile.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_testing_commit.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/layout/fragment_timeline.xml" value="0.11979166666666667" />
-        <entry key="..\:/MobileAppAssignment/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/activity_profiles.xml" value="0.20416666666666666" />
+        <entry key="..\:/Mobile/MobileAppAssignment/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
       </map>
     </option>
   </component>
